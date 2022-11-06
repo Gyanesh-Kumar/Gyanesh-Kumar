@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gyanesh Kumar</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate backend developer from India</h3>
 <img align = "center" alt="Coder" width = "400" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 - 🌱 I’m currently learning **Web Development**
 
